@@ -18,9 +18,9 @@ You can find released skins in any one of the medias below!
 
 ## ⭐ Latest release
 
-**JaxCore - Season 2**
+**ValliStart - start menu replacement**
 
-<img align="left" alt="Latest release" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/97bfd084-7ef0-496f-a835-3c41f482d38c/derm5h9-6795cba4-a54c-4cfb-ade7-bb1b8e6bc158.png" />
+https://user-images.githubusercontent.com/80020581/135605372-11b522aa-8d29-4094-bb12-237aafd3b38c.mp4
 
 
 ➡️ [Browse all skins](https://www.deviantart.com/jaxoriginals)
