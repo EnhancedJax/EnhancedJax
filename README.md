@@ -22,6 +22,7 @@ You can find released skins in any one of the medias below!
 
 <img align="left" alt="Latest release" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/97bfd084-7ef0-496f-a835-3c41f482d38c/derm5h9-6795cba4-a54c-4cfb-ade7-bb1b8e6bc158.png" />
 
+
 ➡️ [Browse all skins](https://www.deviantart.com/jaxoriginals)
 
 ## ❤️ Support my creations
@@ -29,4 +30,4 @@ You can find released skins in any one of the medias below!
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](paypal.me/jaxoriginals)
 [![Kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jaxoriginals)
 
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnhancedJax&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnhancedJax&show_icons=true&hide_border=true&theme=github_dark" />
