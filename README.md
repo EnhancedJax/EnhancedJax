@@ -20,8 +20,7 @@ You can find released skins in any one of the medias below!
 
 **QuickNote - Quick access notepad** - get it on [DeviantArt](https://www.deviantart.com/jaxoriginals/art/QuickNote-Quick-access-notepad-894951390)
 
-https://user-images.githubusercontent.com/80020581/137724503-f4eec94a-6475-420b-959e-d010948d65e7.mp4
-
+![QuickNote](https://user-images.githubusercontent.com/80020581/137724887-777f60e1-6ef1-4ddf-9dbc-4fa9286e59f4.png)
 
 ➡️ [Browse all skins](https://www.deviantart.com/jaxoriginals)
 
