@@ -18,9 +18,9 @@ You can find released skins in any one of the medias below!
 
 ## ⭐ Latest release
 
-**QuickNote - Quick access notepad** - get it on [DeviantArt](https://www.deviantart.com/jaxoriginals/art/QuickNote-Quick-access-notepad-894951390)
+**Idlestyle - Stylized Screensaver** - get it on [DeviantArt](https://www.deviantart.com/jaxoriginals/art/899004964)
 
-![QuickNote](https://user-images.githubusercontent.com/80020581/137724887-777f60e1-6ef1-4ddf-9dbc-4fa9286e59f4.png)
+![IdleStyle2](https://user-images.githubusercontent.com/80020581/143587740-d5adaea9-bd7d-4155-8497-f4e9202ab51e.png)
 
 ➡️ [Browse all skins](https://www.deviantart.com/jaxoriginals)
 
