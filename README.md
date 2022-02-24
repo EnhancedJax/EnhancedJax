@@ -1,16 +1,16 @@
 ### 👋 Hi , I'm Jax!
 
-## 👨‍💻 I'm a Rainmeter skin developer
+## 👨‍💻 I make & publish desktop widgets regularly!
 
-- I release skins **once per 2 - 4 weeks**!
-- All of my skins are **extremely customizable**!
-- All of my skins are **original concepts**!
+- I release modules / widgets **once per 2 - 4 weeks**!
+- All of my creations are **extremely customizable**!
+- All of my creations are **original concepts**!
 - My Discord dms are open, feel free to message me!
 - **Join my discord server** for development and release updates!
 
 ## 🔗 Connect with me
 
-You can find released skins in any one of the medias below!
+You can find releases in any one of the medias below!
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JmgehPSDD6)
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/jaxoriginals)
@@ -18,11 +18,11 @@ You can find released skins in any one of the medias below!
 
 ## ⭐ Latest release
 
-**Idlestyle - Stylized Screensaver** - get it on [DeviantArt](https://www.deviantart.com/jaxoriginals/art/899004964)
+**YourMixer - Windows volume control** - get it on [DeviantArt](https://www.deviantart.com/jaxoriginals/art/YourMixer-OSD-AppVolume-Mixer-905969076)
 
-![IdleStyle2](https://user-images.githubusercontent.com/80020581/143587740-d5adaea9-bd7d-4155-8497-f4e9202ab51e.png)
+![YourMixer](https://user-images.githubusercontent.com/80020581/155436668-f094f396-124a-409a-a19d-fbf13dd56f9b.png)
 
-➡️ [Browse all skins](https://www.deviantart.com/jaxoriginals)
+➡️ [Browse all](https://www.deviantart.com/jaxoriginals)
 
 ## ❤️ Support my creations
 
