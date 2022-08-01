@@ -1,4 +1,4 @@
-### 👋 Hi , I'm Jax!
+## 👋 Hi , I'm Jax!
 
 I'm a 16-year-old student who enjoys logical operations and graphic design.
 
