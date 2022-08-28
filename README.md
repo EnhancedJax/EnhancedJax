@@ -1,6 +1,6 @@
 ## 👋 Hi , I'm Jax!
 
-I'm a 16-year-old student who enjoys logical operations and graphic design.
+I'm a student who enjoys graphic design and coding!
 
 [JaxCore](https://github.com/Jax-Core/JaxCore) is my passion project, which originates from my desire for good-looking customizable UI on Windows, which is very lacking to this day, even with Windows 11. Also check out the [website](https://jaxcore.app/)!
 
